@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">detailsLab6</string>
+    <string name="scenary">Scenary</string>
+    <string name="name">Name :</string>
+    <string name="username">Username</string>
+    <string name="age">Age :</string>
+    <string name="_18_to_21">18 to 21</string>
+    <string name="_22_to_30">22 to 30</string>
+    <string name="_31_to_50">31 to 50</string>
+    <string name="city">City :</string>
+    <string name="surat">Surat</string>
+    <string name="bangalore">Bangalore</string>
+    <string name="mysore">Mysore</string>
+    <string name="delhi">Delhi</string>
+    <string name="submit">Submit</string>
+    <string name="usernameHint">Username</string>
+</resources>
